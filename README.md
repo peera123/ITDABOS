@@ -33,6 +33,16 @@ Install https://drive.google.com/file/d/1mP9vjqSWudZPSsEigIxQ4oQ6lbUnNf2e/view?u
 Sub Scriber https://drive.google.com/open?id=1Cu1cUvGGIFG1aXetOuYyNco2nSZrPrBf
 
 
+
+---------------
+Line Notify
+---------------
+
+[คู่มือ] สร้าง Line Notify https://drive.google.com/open?id=18Wl7nS1O1Bp0B26_I8jZmfkQndUc3EJD
+
+[Clip] สร้าง Line Notify https://drive.google.com/open?id=1t-t8tRBGwpz3h-__4NSByQp5pzwV_wj9
+
+
 ----------------
 ESP32
 ----------------
@@ -90,6 +100,8 @@ ESP32
 [Clip] 12.4 Servo Arm เขี้ยว https://drive.google.com/open?id=175SEhJ0iEviLs8KlLi4giXZr291AHBgj
 
 [Clip] 12.5 Servo Arm ประกอบ https://drive.google.com/open?id=19qMhUM7Dmm2zwlv2-uRawdthEdMfYvcV
+
+[Clip] Light Sensor to Line https://drive.google.com/open?id=1W0t1Z_JVm2rPJsNvgbpOIXlZ9cEp8qol
 
 [Clip] DS24 MQTT With 2 IoT https://drive.google.com/open?id=1NrMoA3dhNJ7tUpYt6kxe9qlj0YbxgZwo
 
